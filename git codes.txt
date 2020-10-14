@@ -9,3 +9,5 @@ git merge
 git checkout
 git stash
 git add .
+git pull
+git fetch
