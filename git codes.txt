@@ -10,4 +10,10 @@ git checkout
 git stash
 git add .
 git pull
-git fetch
+git push -u projectname/branchname
+git remote show projectname
+git git remote -v
+git remote add urlname
+git config username 
+git config email
+
