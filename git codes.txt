@@ -16,4 +16,7 @@ git git remote -v
 git remote add urlname
 git config username 
 git config email
-
+git branch -d branchname
+git branch -D branchname
+git branch -dr branchname
+git push origin --delete branchname
